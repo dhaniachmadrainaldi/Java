@@ -16,9 +16,9 @@ System.out.print("Masukan Status Menikah :");
 menikah = input.nextBoolean();
 
 System.out.println("Nama :"+nama);
-System.out.println(jenisKelamin);
-System.out.println(tinggiBadan);
-System.out.println(menikah);
+System.out.println("Jenis Kelamin:"+jenisKelamin);
+System.out.println("Tinggi Badan:"+tinggiBadan);
+System.out.println("Status menikah:"+menikah);
 
 }
 }
